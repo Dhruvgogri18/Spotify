@@ -42,7 +42,7 @@
 .imagess {
     position: absolute;
     width: 100%;
-    height: 78%;
+    height: 129%;
     /* left: 1507px; */
     top: 100px;
     margin: 0;
@@ -200,8 +200,8 @@ top: 522px;
 
 .bottom {
     position: absolute;
-    width: 1440px;
-    height: 274px;
+    width: 100%;
+    height: 41%;
     /* left: 1507px; */
     top: 1200px;
 
@@ -279,7 +279,7 @@ letter-spacing: 0.05em;
 
 }
 
-
+/* 
 @media (max-width:1789px){
     .one{
         display: none;
@@ -291,4 +291,4 @@ letter-spacing: 0.05em;
     display: none;
     
    }
-}
+} */
